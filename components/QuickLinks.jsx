@@ -25,12 +25,12 @@ export default function QuickLinks() {
       <li className="transition-opacity">
         <Link
           className="flex gap-3 items-center"
-          href="https://www.linkedin.com/in/n-bu%C4%9Fra-er/"
+          href="https://www.linkedin.com/in/mohammad-tajut-zam-zami"
           target="blank"
         >
           <FaLinkedin className="w-5 h-5" />
           <div>
-            335
+            424
             <span> Connections</span>
           </div>
         </Link>
@@ -38,7 +38,7 @@ export default function QuickLinks() {
       <li className="transition-opacity">
         <Link
           className="flex gap-3 items-center"
-          href="https://www.linkedin.com/in/n-bu%C4%9Fra-er/"
+          href="https://drive.google.com/file/d/1EysSGmIQyQZWjZZU2JJFG4l6_zwZt5sX/view?usp=sharing"
           target="blank"
         >
           <IoMdDocument className="w-5 h-5" />

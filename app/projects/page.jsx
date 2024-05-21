@@ -29,21 +29,6 @@ export default function Contact() {
           <ProjectSection alt={'Dikantin Image Project'} category={"Fullstack | Laravel"} company={"Teaching Factory Jember State Polytechnic"} description={
             "              In this project I developed a backend rest full api using the Laravel framework for the needs of the Dkantin application used by the Jember State Polytechnic, there I implemented bearer token authentication"
           } nameApps={"DKantin Jember State Polytechnic"} src={dikantin} ></ProjectSection>
-
-          <ProjectSection alt={'Dikantin Image Project'} category={"Backend | Laravel"} company={"Teaching Factory Jember State Polytechnic"} description={
-            "              In this project I developed a backend rest full api using the Laravel framework for the needs of the Dkantin application used by the Jember State Polytechnic, there I implemented bearer token authentication"
-          } nameApps={"DKantin Jember State Polytechnic"} src={dikantin} ></ProjectSection>
-
-          <ProjectSection alt={'Dikantin Image Project'} category={"Backend | Laravel"} company={"Teaching Factory Jember State Polytechnic"} description={
-            "              In this project I developed a backend rest full api using the Laravel framework for the needs of the Dkantin application used by the Jember State Polytechnic, there I implemented bearer token authentication"
-          } nameApps={"DKantin Jember State Polytechnic"} src={dikantin} ></ProjectSection>
-          <ProjectSection alt={'Dikantin Image Project'} category={"Backend | Laravel"} company={"Teaching Factory Jember State Polytechnic"} description={
-            "              In this project I developed a backend rest full api using the Laravel framework for the needs of the Dkantin application used by the Jember State Polytechnic, there I implemented bearer token authentication"
-          } nameApps={"DKantin Jember State Polytechnic"} src={dikantin} ></ProjectSection>
-          <ProjectSection alt={'Dikantin Image Project'} category={"Backend | Laravel"} company={"Teaching Factory Jember State Polytechnic"} description={
-            "              In this project I developed a backend rest full api using the Laravel framework for the needs of the Dkantin application used by the Jember State Polytechnic, there I implemented bearer token authentication"
-          } nameApps={"DKantin Jember State Polytechnic"} src={dikantin} ></ProjectSection>
-
         </div>
       </div>
     </div>
