@@ -30,7 +30,7 @@ export default function About() {
             className="flex flex-col gap-6 animate-in"
             style={{ "--index": 4 }}
           >
-            <h1>Hello World, I&apos;m Mohammad Tajut Zamzami!</h1>
+            <h1>Hello World, Im Mohammad Tajut Zamzami!</h1>
             <p>
               I am Mohammad Tajut ZamZami, 22 years old, living in Indonesia, East Java, Banyuwangi Regency and I like watching films, drinking coffee, watching the Indonesian national football team, and working as a freelance software engineer. I got this job through word of mouth, like helping informatics students complete their assignments
             </p>
@@ -46,10 +46,9 @@ export default function About() {
             style={{ "--index": 6 }}
           >
             <p>
-              In general, I work with Laravel, Flutter, Boostrap 5, Next.JS, Springboot, Codeignitier, I always try to learn these technologies even though I
-              I'm not at the level I want to be yet, I think with continued learning one day I'll get there
-              the level I want.
+              In general, I work with Laravel, Flutter, Bootstrap 5, Next.js, Spring Boot, and CodeIgniter. I always strive to learn these technologies even though I am not yet at the level I want to be. I believe that with continued learning, one day I&#39;ll reach the level I aspire to achieve.
             </p>
+
           </div>
         </Section>
 
