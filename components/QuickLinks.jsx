@@ -38,7 +38,7 @@ export default function QuickLinks() {
       <li className="transition-opacity">
         <Link
           className="flex gap-3 items-center"
-          href="https://drive.google.com/file/d/1EysSGmIQyQZWjZZU2JJFG4l6_zwZt5sX/view?usp=sharing"
+          href="https://drive.google.com/file/d/144O4ByKYyLHSu38_qw9mxslbp0HuEu59/view?usp=sharing"
           target="blank"
         >
           <IoMdDocument className="w-5 h-5" />
