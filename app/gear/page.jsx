@@ -1,7 +1,7 @@
 import GearItems from "./components/GearItems";
 
 export const metadata = {
-    title: "Bugra Er | Gear",
+    title: "ZAM.DEV | Gear",
     description: "All the tools and applications I use",
 };
 
@@ -14,15 +14,15 @@ export default function Gear() {
                         <h1 className="animate-in text-3xl font-bold tracking-tight">
                             Gear & Tools & Apps
                         </h1>
-                        <p className="animate-in text-secondary" style={{"--index": 1}}>
+                        <p className="animate-in text-secondary" style={{ "--index": 1 }}>
                             All tools i can use
                         </p>
                     </div>
-                    <p className="max-w-lg animate-in" style={{"--index": 2}}>
+                    <p className="max-w-lg animate-in" style={{ "--index": 2 }}>
                         All these tools and applications make my life easier and i enjoy
                         using them.
                     </p>
-                    <GearItems/>
+                    <GearItems />
                 </div>
             </div>
         </>
